@@ -2,7 +2,7 @@
 # Name:        module1
 # Purpose:
 #
-# Author:      S.A
+# Author:      S.A Chau
 #
 # Created:     16/04/2017
 # Copyright:   (c) S.A 2017
